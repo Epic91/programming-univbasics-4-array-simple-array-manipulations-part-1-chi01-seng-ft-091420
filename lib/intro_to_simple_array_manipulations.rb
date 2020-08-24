@@ -9,3 +9,13 @@ end
 def using_pop(array)
   element=array.pop
 end
+
+def pop_with_args(array)
+  
+  
+end
+
+def using_unshift(array)
+  element=array.unshift
+  
+end
