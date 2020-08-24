@@ -9,5 +9,4 @@ end
 def using_pop(continents)
   Antarctica = continents.pop
   p continents
-  p Antarctica
 end
