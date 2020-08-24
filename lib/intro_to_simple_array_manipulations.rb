@@ -11,7 +11,5 @@ def using_pop(array)
 end
 
 def pop_with_args
-  element1=array.pop
-  element2=array.pop
 
 end
