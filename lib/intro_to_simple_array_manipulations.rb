@@ -8,5 +8,6 @@ end
 
 def using_pop(array)
   p array
+  p Antarctica
 
 end
