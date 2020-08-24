@@ -6,8 +6,8 @@ def using_unshift(array, string)
   array.unshift(string)
 end
 
-def using_pop(array)
-  p array
+def using_pop(continents)
+  Antarctica = continents.pop
+  p continents
   p Antarctica
-
 end
